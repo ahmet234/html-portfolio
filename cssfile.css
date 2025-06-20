@@ -56,6 +56,9 @@ hr{
     h1 {
       font-size: 2rem; /* larger text for small and up */
     }
+    .img-text{
+        display: flex;
+    }
   }
 .footer{
     background-color: #98CD00 ;
